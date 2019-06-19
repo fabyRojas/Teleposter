@@ -1,10 +1,10 @@
 # Teleposter for Telegra.ph
 
-Disclaimer: This wrapper is NOT an official client and do not attempt to represent Telegram or Telegra.ph in any way.
+ADVERTENCIA: Este proyecto NO es un cliente oficial y no intente representar a Telegram o Telegra.ph de ninguna manera.
 
-Teleposter es un cliente completamente independiemte hecho para Telegra.ph, una nueva y simple plataforma para realizar publicaciones, made for easy sharing of articles and other stuff. With this app it's very easy to create and share these posts to any app.
+Teleposter es un cliente completamente independiemte hecho para Telegra.ph, una nueva y simple plataforma para realizar publicaciones, con el fin de facilitar el intercambio de artículos y otras cosas. Con esta aplicación es muy fácil crear y compartir estas publicaciones en cualquier aplicación.
 
-For more information about Telegra.ph visit https://telegram.org/blog/instant-view#telegraph
+Para saber más acerca de Telegra.ph visitar https://telegram.org/blog/instant-view#telegraph
 
 Please take care, that this app might be unstable due to it's early development state!
 
